@@ -28,6 +28,6 @@ Para contribuir com dm-git-v15.0_lesson-2, siga estas etapas:
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
 [⬆ Voltar ao topo](README.md)<br>
